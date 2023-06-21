@@ -8,4 +8,3 @@ if check_num and check_num1:
     print("Is valid")
 else:
     print("Invalid")
-ijm-euut-irn
